@@ -122,11 +122,11 @@ jQuery(document).ready(function(){
    setInterval(function(){
      var rXP = Math.floor(Math.random() * (80 - 0)) - 40;
      var rYP = Math.floor(Math.random() * (80 - 0)) - 40;
-     $('h1').css('text-shadow', +rYP/40+'px '+rXP/40+'px #ffb24d, '+rYP/10+'px '+rXP/10+'px 5px #4dffa5, '+rXP/10+'px '+rYP/10+'px 5px #ffb24d');
+     $('h1').css('text-shadow', +rYP/40+'px '+rXP/40+'px 5px #ffb24d, '+rYP/10+'px '+rXP/10+'px 50px #4dffa5, '+rXP/10+'px '+rYP/10+'px 5px #ffb24d');
    },100);
 	 setInterval(function(){
      var rXP = Math.floor(Math.random() * (80 - 0)) - 40;
      var rYP = Math.floor(Math.random() * (80 - 0)) - 40;
-     $('.btn-link').css('box-shadow', +rYP/40+'px '+rXP/40+'px #ffb24d, '+rYP/10+'px '+rXP/10+'px 5px #4dffa5, '+rXP/10+'px '+rYP/10+'px 5px #ffb24d');
+     $('.btn-link').css('box-shadow', +rYP/40+'px '+rXP/40+'px 5px #ffb24d, '+rYP/10+'px '+rXP/10+'px 50px #4dffa5, '+rXP/10+'px '+rYP/10+'px 5px #ffb24d');
    },100);
 });

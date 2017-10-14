@@ -9,6 +9,9 @@ display:inline-block!important;
 	margin:10px;
 	border:5px;
 }
+.inactive{
+	cursor:not-allowed;
+}
 .canvas {
 position: absolute;
   /*display: block;*/
