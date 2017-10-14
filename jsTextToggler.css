@@ -1,0 +1,14 @@
+.eec-read-toggle-on{
+	display:inline-block;
+	height:4px;
+	width:8px;
+	background:#FFB24D;
+	color:#888888;
+}
+.eec-read-toggle-off{
+	display:inline-block;
+	height:4px;
+	width:8px;
+	background:#4DDBFF;
+	color:#c0c0c0;
+}

@@ -1,0 +1,102 @@
+.col{
+	color:#fff;
+}
+.top-offset-100{
+	top:100px;
+}
+.big-margin{
+display:inline-block!important;
+	margin:10px;
+	border:5px;
+}
+.canvas {
+position: absolute;
+  /*display: block;*/
+  width: 100%;
+  height: 500%;
+
+  top:50px;
+  vertical-align: top;
+}
+#particles-js {
+  background-color: #000;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 100%;
+  z-index:-1;
+}
+.crazy{
+	font-size:72px;
+	font-family:'Arial';
+	padding:30px;
+	color:black;
+}
+.row{
+	margin-top: 50px;
+}
+.section{
+	margin-top:5%;
+	margin-bottom:5%;
+}
+h2, h3, h4{
+	font-size:20px!important;
+	color:#aaa!important;
+}
+h5{
+	font-size:60px!important;
+	color:#aaa!important;
+}
+
+
+.btn-deco{
+	height:42px;
+	width:42px;
+	text-decoration:none;
+	display:block;
+	padding: 0px;
+	border: 1px #000 solid;
+    border-radius:4px;
+}
+.btn-link
+{
+
+	background: linear-gradient(gray,white,gray);
+    color:white;
+}
+.btn-link:hover
+{
+	background: linear-gradient(white,gray,white);
+    color:black;
+}
+.i-twitter{
+	background-image:url("icons/twitter.png");
+	background-position: left center;
+    background-repeat: no-repeat;
+     padding:5px 40px 20px 5px;
+    background-size: 40px 40px;
+}
+.i-facebook{
+	background-image:url("icons/facebook.png");
+	background-position: left center;
+    background-repeat: no-repeat;
+     padding:5px 40px 20px 5px;
+    background-size: 40px 40px;
+}
+.i-vk{
+	background-image:url("icons/vk.png");
+	background-position: left center;
+    background-repeat: no-repeat;
+     padding:5px 40px 20px 5px;
+    background-size: 40px 40px;
+}
+.i-fcc{
+	background-image:url("icons/fcc.png");
+	background-position: left center;
+    background-repeat: no-repeat;
+    padding:5px 40px 20px 5px;
+    background-size: 40px 40px;
+}
+.margin_auto{
+margin:auto;
+}
