@@ -9,12 +9,12 @@
  * Frameworks : as usual for web sites JavaScript, jQuery, HTML, CSS
  * Links: [evilepiccoder.github.io](https://evilepiccoder.github.io)
  * What cool things I found:
-  * What I do not like:
-  * Features: CHANGE_HERE
+  * What I do not like: Overloaded, ugly.
+  * Features: 3D crazy text, particles.js
 #### 3. My thoughts
-  * Pros and Cons :
+  * Pros and Cons : 
   * Time consumption 
   * What I learned
 
-Version: `0.2a`
-Date: `15.10.2017`
+Version: `0.3a`
+Date: `16.10.2017`
